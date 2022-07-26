@@ -1,0 +1,18 @@
+.slider-height{
+height: 600px;
+}
+
+.content{
+    /*margin-bottom: 40%;*/
+    bottom: 40%;
+    background-color: rgba(0,0,0, .3);
+    padding: 20px 40px;
+}
+/*.card{*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    float: left;*/
+/*}*/
+.card-img-height{
+    height: 350px;
+}
